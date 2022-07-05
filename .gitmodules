@@ -1,0 +1,4 @@
+[submodule "Integrated-Path"]
+	path = Integrated-Path
+	url = git@github.com:Integrated-Path/vps_servers.git
+	branch = 15.0
